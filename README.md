@@ -21,4 +21,4 @@ traceroute <hostname>
 Use Ctrl+C to interrupt the program and stop execution.
 
 ### Note:
-The ```ping``` command implement in the python script is based on the ```ping``` functionality present in macOS 10.15.7 (Catalina). If you are using a Linux or Windows machine to run the script change the ```ping``` command in the script accordingly.
+The ```ping``` command implement in the python script is based on the ```ping``` functionality present in ```macOS 10.15.7``` (Catalina). If you are using a Linux or Windows machine to run the script change the ```ping``` command in the script accordingly.
